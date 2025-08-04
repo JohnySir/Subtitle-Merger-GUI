@@ -42,7 +42,7 @@ This tool relies on `mkvmerge`, which is part of the [MKVToolNix](https://mkvtoo
 
 Once everything is installed, just run the script from your terminal:
 
-`python your_script_name.py`
+`python merger.py`
 
 
 Then, simply drag the folders containing your video and subtitle files into the application window and click "Start Merging"!

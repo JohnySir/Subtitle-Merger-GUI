@@ -21,8 +21,7 @@ A sleek, modern tool to easily merge subtitle files (`.srt`) into your video fil
 1. **Get the code:**
 
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone as usual
 
 
 2. **Install dependencies:**
@@ -43,8 +42,7 @@ This tool relies on `mkvmerge`, which is part of the [MKVToolNix](https://mkvtoo
 
 Once everything is installed, just run the script from your terminal:
 
-
-python your_script_name.py
+`python your_script_name.py`
 
 
 Then, simply drag the folders containing your video and subtitle files into the application window and click "Start Merging"!

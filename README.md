@@ -1,4 +1,4 @@
-# Subtitle Merger GUI ✨
+# Subtitle Merger GUI V3✨
 
 A sleek, modern tool to easily merge subtitle files (`.srt`) into your video files (`.mp4`, `.mkv`). Built with Python and a beautiful CustomTkinter GUI.
 
